@@ -6,6 +6,8 @@
 * [@Emilio111101](https://github.com/Emilio111101)
 
 ***
+![Video]()
+***
 
 Welcome to the official repository of the immaculate mechatronic and educational project. This vehicle represents the culmination at the pinnacle of mechanical engineering, electronics, programming, and control to create a unique experience derived from mobile robotics.
 
