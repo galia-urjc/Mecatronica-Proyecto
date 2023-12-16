@@ -10,3 +10,7 @@ Bienvenido al repositorio oficial del inmaculable proyecto mecatrónico y educat
 
 Descripción:
 Esta idea se tradujo en un modelo conceptual para un robot móvil que tenía el mecanismo para llevar juguetes en la espalda, capaz de abrirse por sí mismo para almacenar todos los juguetes. Además, el robot sería capaz de circular por la habitación para crear una experiencia de juego atractiva e interactiva para los niños. Avanzando en el concepto de fusionar la diversión con la educación, el robot está diseñado para enseñar conceptos robóticos tanto en la construcción como en la comprensión de la robótica. Además, el robot está equipado con elementos interactivos que involucran a los niños en un entorno de aprendizaje dinámico. A través de sus capacidades de circulación por la habitación, el robot transforma el tiempo de juego en una aventura educativa inmersiva, estimulando la curiosidad y la creatividad. El mecanismo de apertura automática en su espalda no solo facilita el almacenamiento de juguetes, sino que también muestra una aplicación práctica de los principios de ingeniería.
+
+***
+
+![imagen](https://github.com/galia-urjc/Mecatronica-Proyecto/assets/145765270/656fe022-5802-4756-9344-28a0ae3e48c6)
